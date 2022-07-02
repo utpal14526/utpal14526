@@ -1,8 +1,7 @@
 - 👋 Hi I am Utpal Raj.
--
 - 👀 I’m interested in cp,web dev,app dev.
 - 🌱 I’m currently learning django and dsa.
-- 💞️ I’m looking to make interactive projects .
+- 💞️ I’m looking to make interesting projects .
 - 📫You can connect with me on linkedin (https://www.linkedin.com/in/utpal-raj-4763751b0/).
 - 
 
